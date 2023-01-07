@@ -1,8 +1,12 @@
 # CodeClause_Personal_Portfolio
 
-Personal Portfolio Website
+Personal Portfolio Websit
 
 ![Screenshot (299)](https://user-images.githubusercontent.com/105142693/211142058-198b49c9-6168-42d4-8efc-d58a034c0528.png)
+
+
+![Screenshot (300)](https://user-images.githubusercontent.com/105142693/211142229-85565984-d6f9-47e9-a670-d77b9406b93e.png)
+
 
 
 This project was bootstrapped with Create React App.
