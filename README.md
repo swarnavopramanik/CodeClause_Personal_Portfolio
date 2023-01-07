@@ -1,6 +1,6 @@
 # CodeClause_Personal_Portfolio
 
-Personal Portfolio Websit
+Personal Portfolio Website 
 
 Intership Project :
 
